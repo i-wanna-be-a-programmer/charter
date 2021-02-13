@@ -2,7 +2,7 @@
 name: Вступление в организацию
 about: Краткое описание вас и вашего первого проекта
 title: Заявка на вступление
-labels: invite
+labels: joining
 assignees: Vaysman
 
 ---
